@@ -1,0 +1,4 @@
+C:\Users\Profesor\source\repos\edu.jromresExamenProgramacion\obj\Debug\net6.0\edu.jromresExamenProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\edu.jromresExamenProgramacion\obj\Debug\net6.0\edu.jromresExamenProgramacion.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\edu.jromresExamenProgramacion\obj\Debug\net6.0\edu.jromresExamenProgramacion.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\edu.jromresExamenProgramacion\obj\Debug\net6.0\edu.jromresExamenProgramacion.csproj.CoreCompileInputs.cache
